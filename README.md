@@ -1,5 +1,9 @@
 # 2D-Drawing-Shape-Algorithms
-Basic 2D Algorithms drawing in Computer graphic
+Basic 2D Algorithms drawing in Computer graphic.
+
+VS Window Form Project
+C#
+
 
 #Shape
       - Line
@@ -13,3 +17,5 @@ Basic 2D Algorithms drawing in Computer graphic
       - DDA
       - Bresenham
       - Midpoint
+
+#Release
